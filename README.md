@@ -4,4 +4,4 @@
  To answer the five questions a rationale is given for the design decisions that underlies four visualizations.
  
  The attached .twbx file can be viewed with Tableau-Public
- Alternatively, the visualization can be viewed [here](https://public.tableau.com/profile/hendrik5352#!/vizhome/Assessment-3-Sales/Assessment3-Dashboard?publish=yes)
+ Alternatively, the visualization can be viewed [here.](https://public.tableau.com/profile/hendrik5352#!/vizhome/Assessment-3-Sales/Assessment3-Dashboard?publish=yes)
